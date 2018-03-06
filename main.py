@@ -2,7 +2,7 @@ import PIL
 from classifier import Classifier
 from show import show
 
-imgPath = './rifle2.jpg'
+imgPath = './inputs/rifle.jpg'
 targetClass = 934
 maxSteps = 100
 learningRate = 0.1
